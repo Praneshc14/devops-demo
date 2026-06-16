@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "<h1>Hello DevOps World</h1>"
+    return "<h1>Hello Philips</h1>"
 
 print("File loaded")
 
